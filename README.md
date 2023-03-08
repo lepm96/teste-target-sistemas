@@ -1,3 +1,7 @@
-# Teste de estágio para a empresa Target Sistemas
-Linguagem utilizada:
+# Teste de estágio
+### Teste de estágio para a empresa **TARGET SISTEMAS**
+
+>Status: Finalizado
+
+#### Linguagem utilizada:
 - JavaScript
